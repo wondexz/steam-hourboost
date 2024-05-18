@@ -1,2 +1,4 @@
-# steam-hourboost
-SOON [E-mail](mailto:wondexz1numara@wondexz.com) | [Discord](https://discord.com/users/693140554330144829)
+# Hourboost sistemi.
+
+## Çalışma Şekli
+- Hesap ekle komutuyla hesabınızı eklersiniz hesap bilgileriniz database'e kaydedilir ve hourboost yapılır.
